@@ -2,3 +2,5 @@ I'm a frontend developer looking to move into the software development field wit
 
 
 Check out my portfolio: <a href="https://josephbscott.com/">josephbscott.com</a>
+
+My <a href="https://www.linkedin.com/in/j-b-scott/">LinkedIn</a>
