@@ -1,7 +1,7 @@
 I'm a frontend developer in the Atlanta area looking to move into the software development field with my first professional developer position.
 
 
-Portfolio:     <a href="https://josephbscott.com/">josephbscott.com</a>
+Portfolio:     
 
 LinkedIn:     <a href="https://www.linkedin.com/in/j-b-scott/">j-b-scott</a>
 
